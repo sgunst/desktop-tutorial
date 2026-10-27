@@ -2,3 +2,4 @@
 
 Schrijf hier wat commentaar in. Dit project dient om github- en git-features te exploreren. Ik heb de repo op private gezet.
 Ok ik schrijf dit in de main branch and push
+created a branch in vscode, updating file, let's stage and commit, should only appear on the branch
